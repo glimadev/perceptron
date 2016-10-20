@@ -4,3 +4,6 @@ C:\Users\glima.VIT\documents\visual studio 2012\Projects\Perceptron\Perceptron\b
 C:\Users\glima.VIT\documents\visual studio 2012\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
 C:\Users\glima.VIT\documents\visual studio 2012\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.exe
 C:\Users\glima.VIT\documents\visual studio 2012\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+D:\glima\perceptron\perceptron\bin\Debug\Perceptron.exe.config
+D:\glima\perceptron\perceptron\obj\Debug\Perceptron.exe
+D:\glima\perceptron\perceptron\obj\Debug\Perceptron.pdb
