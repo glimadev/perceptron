@@ -1,6 +1,4 @@
-# Perceptron
-A perceptron neuron example
-
+# A perceptron neuron example implemented with c#
 -
 Details
 
