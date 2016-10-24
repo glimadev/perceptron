@@ -1,5 +1,5 @@
-# A perceptron neuron example implemented with c#
--
+# A perceptron neuron example implemented with c-sharp
+
 Details
 
 Activation Function = Step Function
